@@ -58,6 +58,9 @@ This project is a demonstration of API and functional testing skills developed a
  
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/27857441-d070-414a-995c-ba16155f1470" />
 <img width="1897" height="1036" alt="image" src="https://github.com/user-attachments/assets/6d86b35c-3ba1-4dd9-a1ee-b4d9d4279107" />
+<img width="1920" height="962" alt="image" src="https://github.com/user-attachments/assets/4adb77ba-47ec-4482-bece-baabcb38e163" />
+<img width="1916" height="466" alt="image" src="https://github.com/user-attachments/assets/fc7c7d3b-735e-4918-9ce8-8186e8e2b596" />
+<img width="1920" height="456" alt="image" src="https://github.com/user-attachments/assets/fe0be857-9a59-44d1-9b2b-9c0f1c36d405" />
 
 
 *Created with passion on October 26, 2025, at 09:59 PM IST.*
