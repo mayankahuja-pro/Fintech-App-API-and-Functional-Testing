@@ -1,0 +1,14 @@
+Test Case 1: Verify Successful Transaction
+- Preconditions: User is logged in, valid account balance.
+- Steps: 1. Send POST request to https://api.fintechapp.com/transaction with data { "user_id": "123", "amount": 100, "receiver_id": "456" }.
+- Expected Result: Status code 200, response {"status": "success", "message": "Transaction completed"}.
+
+Test Case 2: Verify Insufficient Balance
+- Preconditions: User has balance less than transaction amount.
+- Steps: 1. Send POST request to https://api.fintechapp.com/transaction with data { "user_id": "123", "amount": 1000, "receiver_id": "456" }.
+- Expected Result: Status code 400, response {"status": "error", "message": "Insufficient balance"}.
+
+Test Case 3: Verify Transaction History
+- Preconditions: User has completed transactions.
+- Steps: 1. Send GET request to https://api.fintechapp.com/transaction/history?user_id=123.
+- Expected Result: Status code 200, response [{"id": "1", "amount": 100, "date": "2025-10-26"}].

@@ -1,0 +1,13 @@
+Test Case 1: Verify Successful Transaction
+- Actual Result: Status code 200 (mocked), response {"status": "success", "message": "Transaction completed"}.
+- Status: Pass.
+
+Test Case 2: Verify Insufficient Balance
+- Actual Result: Status code 400 (mocked), response {"status": "error", "message": "Insufficient balance"}.
+- Status: Pass.
+
+Test Case 3: Verify Transaction History
+- Actual Result: Status code 200 (mocked), response [{"id": "1", "amount": 100, "date": "2025-10-26"}].
+- Status: Pass.
+
+Functional Test: Page loads successfully, displays mock data. Status: Pass.
