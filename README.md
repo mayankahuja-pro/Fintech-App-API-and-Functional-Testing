@@ -56,6 +56,8 @@ This project is a demonstration of API and functional testing skills developed a
 - Expand test cases to cover edge cases and performance testing.
 
  
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/27857441-d070-414a-995c-ba16155f1470" />
+<img width="1897" height="1036" alt="image" src="https://github.com/user-attachments/assets/6d86b35c-3ba1-4dd9-a1ee-b4d9d4279107" />
 
 
 *Created with passion on October 26, 2025, at 09:59 PM IST.*
